@@ -1,0 +1,11 @@
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\bin\Debug\Contactos.exe.config
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\bin\Debug\Contactos.exe
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\bin\Debug\Contactos.pdb
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.csproj.AssemblyReference.cache
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.csproj.SuggestedBindingRedirects.cache
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.Form1.resources
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.Properties.Resources.resources
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.csproj.GenerateResource.cache
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.exe
+C:\Users\giank\OneDrive\Desktop\Contactos\Contactos\Contactos\obj\Debug\Contactos.pdb

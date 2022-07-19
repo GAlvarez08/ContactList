@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <ContactList>
+    <NumeroTelefonico>8091234567</NumeroTelefonico>
+    <NombreCompleto>Giancarlo Alvarez</NombreCompleto>
+    <CorreoElectronico>giancarlo@gmail.com</CorreoElectronico>
+    <Direccion>Mi Casa</Direccion>
+    <ID>-1</ID>
+  </ContactList>
+  <ContactList>
+    <NumeroTelefonico>8094453444</NumeroTelefonico>
+    <NombreCompleto>Omar Frometa</NombreCompleto>
+    <CorreoElectronico>Omar@gmail.com</CorreoElectronico>
+    <Direccion>Su casa</Direccion>
+    <ID>-2</ID>
+  </ContactList>
+</DataSet1>
